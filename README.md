@@ -1,4 +1,4 @@
-# model_evaluation_challenge_us_income
+# Model Evaluation Challenge Us Income
 
 This little project was a challenge during the BeCode AI Data Operator Course I did. During this 2-day project I had to analyze US income data. I had to predict if people belonged to a certain category. We had to use a RandomForestClassifier.
 
